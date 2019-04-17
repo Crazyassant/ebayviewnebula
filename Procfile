@@ -1,1 +1,1 @@
-worker: python 
+worker: python discord-views-bot.py
