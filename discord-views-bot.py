@@ -8,7 +8,7 @@ import time
 
 requests.packages.urllib3.disable_warnings()
 
-TOKEN = ''
+TOKEN = 'NTY4MTE3MzI1ODg3MTc2NzA0.XLdakw.HhNxjdKOcAsQ6mBkKN7kFBSW4Pw'
 
 client = discord.Client()
 
